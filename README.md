@@ -6,4 +6,8 @@
 * `bd` to close tab
 ### 2. Development
 * `vit` to select whatever have inside in an element like (div or h1 etc)
-* `vat` to select entire element 
+* `vat` to select entire element
+* `zc` fold(close) element area
+* `zo` unfold(open) element area
+* `zM` fold all element in a file
+* `zR` unfold all element in a file
