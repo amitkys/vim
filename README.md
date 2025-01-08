@@ -11,3 +11,6 @@
 * `zo` unfold(open) element area
 * `zM` fold all element in a file
 * `zR` unfold all element in a file
+### 3. Navigate
+* `gd` (move cursor there)goto file definitions
+
