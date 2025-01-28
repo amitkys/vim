@@ -35,15 +35,7 @@
    npm install gh-pages --save-dev
    ```
 
-3. **Update `package.json`**:
-   Modify your `package.json` to include the `gh-pages` deployment configuration. Ensure it points to the `dist` folder:
 
-   ```json
-   "homepage": "https://<your-username>.github.io/<repository-name>",
-   "scripts": {
-     "predeploy": "npm run build",
-     "deploy": "gh-pages -d dist"
-   }
    ```
 
    Replace:
