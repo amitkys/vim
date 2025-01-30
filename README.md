@@ -42,11 +42,7 @@
    - `<your-username>` with your GitHub username.
    - `<repository-name>` with your repository's name.
 
-4. **Deploy the App**:
-   Run the deploy script:
-   ```bash
-   npm run deploy
-   ```
+
    
    This will push the contents of the `dist/` folder to the `gh-pages` branch of your repository.
 
