@@ -48,7 +48,7 @@
 
 5. **Configure GitHub Pages**:
    - Go to your repository on GitHub.
-   - Navigate to **Settings > Pages**.
+   - Navigate to **Setts > Pages**.
    - Under the "Source" section, select the `gh-pages` branch and click **Save**.
 
 6. **Access Your Deployed App**:
