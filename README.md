@@ -60,5 +60,5 @@
 - If your app uses **React Router**, ensure you configure your routes to work with GitHub Pages by adding a `redirect` configuration in your app or an `_redirects` file.
 - If you're using a custom domain, configure it in the GitHub Pages settings.
 
-Let me know if you face any issues!
+
 
