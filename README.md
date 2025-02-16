@@ -46,7 +46,7 @@
    
    This will push the contents of the `dist/` folder to the `gh-pages` branch of your repository.
 
-5. **Configure GitHub Pages**:
+5. **Configure GitHub Pa
    - Go to your repository on GitHub.
    - Navigate to **Setts > Pages**.
    - Under the "Source" section, select the `gh-pages` branch and click **Save**.
