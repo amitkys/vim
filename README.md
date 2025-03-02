@@ -51,8 +51,6 @@
    - Navigate to **Setts > Pages**.
    - Under the "Source" section, select the `gh-pages` branch and click **Save**.
 
-6Access Your Deployed App**:
-   The app will be live at `https://<your-username>.github.io/<repository-name>`.
 
 ---
 
