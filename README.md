@@ -44,7 +44,6 @@
 
 
    
-   This will push the contents of the `dist/` folder to the `gh-pages` branch of your repository.
 
 5. **Configure GitHub Pa
    - Go to your repository on GitHub.
