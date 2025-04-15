@@ -1,5 +1,4 @@
 # Vim Command
-<<<<<<< HEAD
 ### 1. vs code tab manage
 * `:ls` let you open all tab in buffer
 * `gt` or `bn` let you move tab in forword direction
@@ -60,9 +59,6 @@
 
 
 
-=======
-
->>>>>>> branching
 ### 1. vs code tab manage
 
 - `:ls` let you open all tab in buffer
