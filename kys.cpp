@@ -1,6 +1,8 @@
-#include <bits/stdc++.h>
+#include <iostream>
 using namespace std;
 int main() {
-    string name = "amitkys";
-    cout << "my name is " << name << endl;
+  int n;
+  cin >> n;
+  cout << "Hello world you have entered " << n << endl;
+  return 0;
 }
