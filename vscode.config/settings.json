@@ -1,0 +1,280 @@
+{
+    "workbench.startupEditor": "none",
+        "vim.commandLineModeKeyBindings": [],
+        "vim.leader": "<Space>",
+        "vim.foldfix": true,
+        "vim.commandLineModeKeyBindingsNonRecursive": [],
+        "vim.normalModeKeyBindingsNonRecursive": [
+        {
+            "before": [
+                "<"
+            ],
+            "commands": [
+                ":bp"
+            ]
+        },
+        {
+            "before": [
+                ">"
+            ],
+            "commands": [
+                ":bn"
+            ]
+        },
+        {
+            "before": [
+                "J"
+            ],
+            "after": [
+                "5",
+            "j"
+            ]
+        },
+        {
+            "before": [
+                "K"
+            ],
+            "after": [
+                "5",
+            "k"
+            ]
+        },
+        {
+            "before": [
+                "<Leader>",
+            "J"
+            ],
+            "after": [
+                "J"
+            ]
+        },
+        {
+            "before": [
+                "<C-h>"
+            ],
+            "after": [
+                "<C-w>",
+            "h"
+            ]
+        },
+        {
+            "before": [
+                "<C-j>"
+            ],
+            "after": [
+                "<C-w>",
+            "j"
+            ]
+        },
+        {
+            "before": [
+                "<C-k>"
+            ],
+            "after": [
+                "<C-w>",
+            "k"
+            ]
+        },
+        {
+            "before": [
+                "<C-l>"
+            ],
+            "after": [
+                "<C-w>",
+            "l"
+            ]
+        },
+        {
+            "before": [
+                "<Leader>",
+            "t",
+            "t"
+            ],
+            "commands": [
+                ":tabnew"
+            ]
+        },
+        {
+            "before": [
+                "<Leader>",
+            "t",
+            "n"
+            ],
+            "commands": [
+                ":tabnext"
+            ]
+        },
+        {
+            "before": [
+                "<Leader>",
+            "t",
+            "p"
+            ],
+            "commands": [
+                ":tabprev"
+            ]
+        },
+        {
+            "before": [
+                "<Leader>",
+            "t",
+            "o"
+            ],
+            "commands": [
+                ":tabo"
+            ]
+        },
+        {
+            "before": [
+                "leader",
+            "w"
+            ],
+            "commands": [
+                "workbench.action.files.save"
+            ]
+        },
+        {
+            "before": ["<leader>", "e"],
+            "commands": ["workbench.view.explorer"]
+        }
+
+        ],
+        "vim.handleKeys": {
+            "<C-d>": true,
+            "<C-s>": false,
+            "<C-z>": false,
+            "<C-c>": false,
+            "<C-y>": false,
+            "<C-b>": false,
+            "<C-a>": false,
+            "<C-n>": false,
+            "<C-.>": false,
+            "<C-p>": false,
+            "<C-f>": false,
+            "<C-i>": false
+        },
+        "vim.scrolloff": 5,
+        "vim.insertModeKeyBindings": [
+        {
+            "before": [
+                "j",
+            "j"
+            ],
+            "after": [
+                "<Esc>"
+            ]
+        }
+        ],
+        "vim.normalModeKeyBindings": [
+        {
+            "before": [
+                "<leader>",
+            "d"
+            ],
+            "commands": [
+                "workbench.action.terminal.focus"
+            ]
+        },
+        {
+            "before": [
+                "<leader>",
+            "i"
+            ],
+            "commands": [
+                "workbench.action.focusFirstEditorGroup"
+            ]
+        },
+        {
+            "before": [
+                "C"
+            ],
+            "after": [
+                "g",
+            "g",
+            "V",
+            "G"
+            ]
+        },
+        {
+            "before": [
+                "<leader>",
+            "f"
+            ],
+            "commands": [
+                ":ls"
+            ]
+        },
+        {
+            "before": [
+                "<leader>",
+            "e"
+            ],
+            "command": "workbench.view.explorer"
+        }
+        ],
+        "vim.cursorStylePerMode.insert": "line",
+        "vim.cursorStylePerMode.normal": "block",
+        "vim.cursorStylePerMode.visual": "block",
+        "vim.cursorStylePerMode.visualblock": "block",
+        "editor.lineNumbers": "relative",
+        "terminal.integrated.sendKeybindingsToShell": true,
+        "workbench.iconTheme": "material-icon-theme",
+        "editor.stickyScroll.enabled": false,
+        "vim.smartRelativeLine": true,
+        "terminal.integrated.mouseWheelZoom": true,
+        "terminal.integrated.fontFamily": "Monaco",
+        "terminal.integrated.fontSize": 13,
+        "editor.inlineSuggest.fontFamily": "9",
+        "editor.suggestFontSize": 12,
+        "explorer.compactFolders": false,
+        "editor.wordWrap": "off",
+        "[javascript]": {
+            "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
+        },
+        "[typescriptreact]": {
+            "editor.defaultFormatter": "vscode.typescript-language-features"
+        },
+        "editor.minimap.enabled": false,
+        "editor.cursorSurroundingLines": 5,
+        "vim.neovimUseConfigFile": true,
+        "vim.neovimConfigPath": "~/.config/nvim/init.vim",
+        "vim.neovimPath": "/usr/bin/nvim",
+        "vim.enableNeovim": true,
+        "vim.cursorStylePerMode.visualline": "block",
+        "extensions.experimental.affinity": {
+            "asvetliakov.vscode-neovim": 1
+        },
+        "editor.formatOnSave": true,
+        "editor.codeActionsOnSave": {
+            "source.fixAll.eslint": "explicit"
+        },
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "workbench.layoutControl.enabled": false,
+        "vim.insertModeKeyBindingsNonRecursive": [],
+        "workbench.settings.applyToAllProfiles": [
+
+
+
+
+
+
+        ],
+        "editor.fontFamily": "'Google Sans Code', 'monospace', monospace",
+        "diffEditor.codeLens": true,
+        "antigravity.marketplaceGalleryItemURL": "https://marketplace.visualstudio.com/items",
+        "antigravity.marketplaceExtensionGalleryServiceURL": "https://marketplace.visualstudio.com/_apis/public/gallery",
+        "javascript.updateImportsOnFileMove.enabled": "never",
+        "[html]": {
+            "editor.defaultFormatter": "vscode.html-language-features"
+        },
+        "editor.fontSize": 15,
+        "[typescript]": {
+            "editor.defaultFormatter": "vscode.typescript-language-features"
+        },
+        "[json]": {
+            "editor.defaultFormatter": "biomejs.biome"
+        },
+        "[mdx]": {
+            "editor.defaultFormatter": "unifiedjs.vscode-mdx"
+        }
+}
